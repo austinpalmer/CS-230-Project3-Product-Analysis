@@ -1,4 +1,4 @@
-# Summarize the project amd what problem it was solving:
+# Summarize the project and what problem it was solving:
 The purpose of this program is to allow a user to analyze the purchase frequency
 of a certain product and read/write files based on input. This program uses both 
 Python and C++ to best analyze large amounts of data.
